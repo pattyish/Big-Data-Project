@@ -2,7 +2,7 @@
 
 ## ETL Pipeline
 
-![ETL Pipeline](https://github.com/pattyish/Big-Data-Project/raw/main/ETL-pipelineImage.png)
+![ETL Pipeline](https://github.com/pattyish/Big-Data-Project/blob/master/ETL-pipelineImage.png)
 
 ## Database Schema
 
