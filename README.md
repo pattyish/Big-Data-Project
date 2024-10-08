@@ -6,4 +6,4 @@
 
 ## Database Schema
 
-![Database Schema](https://github.com/pattyish/Big-Data-Project/raw/main/db_schema.png)
+![Database Schema](https://github.com/pattyish/Big-Data-Project/blob/master/db_schema.png)
